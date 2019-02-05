@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fachrul Blog</title>
+    <link href="https://fachrulch.github.io/blog/feed.xml" rel="self" />
+    <link href="https://fachrulch.github.io/blog" />
+    <updated>2019-02-05T21:52:06+07:00</updated>
+    <author>
+        <name>Fachrul Choliluddin</name>
+    </author>
+    <id>https://fachrulch.github.io/blog</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Fachrul Choliluddin</name>
+        </author>
+        <link href="https://fachrulch.github.io/blog/hello-world/"/>
+        <id>https://fachrulch.github.io/blog/hello-world/</id>
+            <category term="software quality"/>
+
+        <updated>2019-02-05T21:48:03+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fachrulch.github.io/blog/media/posts/1/" alt="" />
+                    It's begining of new world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fachrulch.github.io/blog/media/posts/1/" alt="" />
+                It's begining of new world
+            ]]>
+        </content>
+    </entry>
+</feed>

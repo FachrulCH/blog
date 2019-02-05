@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fachrul Blog",
+    "description": "",
+    "home_page_url": "https://fachrulch.github.io/blog",
+    "feed_url": "https://fachrulch.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fachrul Choliluddin"
+    },
+    "items": [
+        {
+            "id": "https://fachrulch.github.io/blog/hello-world/",
+            "url": "https://fachrulch.github.io/blog/hello-world/",
+            "title": "Hello World",
+            "summary": "It's begining of new world",
+            "content_html": "It's begining of new world",
+            "image": "https://fachrulch.github.io/blog/media/posts/1/",
+            "author": {
+                "name": "Fachrul Choliluddin"
+            },
+            "tags": [
+                   "software quality"
+            ],
+            "date_published": "2019-02-05T21:45:26+07:00",
+            "date_modified": "2019-02-05T21:48:03+07:00"
+        }
+    ]
+}
